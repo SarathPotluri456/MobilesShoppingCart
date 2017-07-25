@@ -122,6 +122,7 @@ public class HomeController {
 		// return "Home";
 	}
 
+	@SuppressWarnings("unused")
 	@RequestMapping("/Login")
 	public String loginPage(Model model) {
 		model.addAttribute("isUserClickedLogin", "true");
