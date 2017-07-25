@@ -19,19 +19,19 @@
 				<form class="form-horizontal" action="manage-supplier-update" method="get">
 					<div class="form-group">
 						<label class="control-label col-sm-3" for="cId">Supplier Id:</label>
-						<div class="col-sm-9">
+						<div class="col-sm-6">
 							<input type="text" class="form-control" id="cId" placeholder="Enter Supplier Id" name="cId" value="${selectedSupplier.id}" pattern=".{5,15}" title="Supplier Id must have 5 to 15 characters" required>
 						</div>
 					</div>
 					<div class="form-group">
 						<label class="control-label col-sm-3" for="cName">Supplier Name:</label>
-						<div class="col-sm-9">
+						<div class="col-sm-6">
 							<input type="text" class="form-control" id="cName" placeholder="Enter Supplier Name" name="cName" value="${selectedSupplier.name}" pattern=".{5,40}" title="Supplier Name must have 5 to 40 characters" required>
 						</div>
 					</div>
 					<div class="form-group">
 						<label class="control-label col-sm-3" for="cAddress">Supplier Address:</label>
-						<div class="col-sm-9">
+						<div class="col-sm-6">
 							<input type="text" class="form-control" id="cAddress" placeholder="Enter Supplier Address" name="cAddress" value="${selectedSupplier.address}" pattern=".{5,40}" title="Supplier Address must have 5 characters minimum" required>
 						</div>
 					</div>
@@ -52,19 +52,19 @@
 				<form class="form-horizontal" action="manage-supplier-add">
 					<div class="form-group">
 						<label class="control-label col-sm-3" for="sId">Supplier Id:</label>
-						<div class="col-sm-9">
+						<div class="col-sm-6">
 							<input type="text" class="form-control" id="sId" placeholder="Enter Supplier Id" name="sId" required>
 						</div>
 					</div>
 					<div class="form-group">
 						<label class="control-label col-sm-3" for="sName">Supplier Name:</label>
-						<div class="col-sm-9">
+						<div class="col-sm-6">
 							<input type="text" class="form-control" id="sName" placeholder="Enter Supplier Name" name="sName" required>
 						</div>
 					</div>
 					<div class="form-group">
 						<label class="control-label col-sm-3" for="sAddress">Supplier Address:</label>
-						<div class="col-sm-9">
+						<div class="col-sm-6">
 							<input type="text" class="form-control" id="sAddress" placeholder="Enter Supplier Address" name="sAddress" required>
 						</div>
 					</div>

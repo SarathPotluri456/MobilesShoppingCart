@@ -58,19 +58,19 @@
 					<form class="form-horizontal" action="manage-category-add">
 						<div class="form-group">
 							<label class="control-label col-sm-3" for="cId">Category Id:</label>
-							<div class="col-sm-9">
+							<div class="col-sm-6">
 								<input type="text" class="form-control" id="cId" placeholder="Enter Category Id" name="cId" required>
 							</div>
 						</div>
 						<div class="form-group">
 							<label class="control-label col-sm-3" for="cName">Category Name:</label>
-							<div class="col-sm-9">
+							<div class="col-sm-6">
 								<input type="text" class="form-control" id="cName" placeholder="Enter Category Name" name="cName" required>
 							</div>
 						</div>
 						<div class="form-group">
 							<label class="control-label col-sm-3" for="cDescription">Category Description:</label>
-							<div class="col-sm-9">
+							<div class="col-sm-6">
 								<input type="text" class="form-control" id="cDescription" placeholder="Enter Category Description" name="cDescription" required>
 							</div>
 						</div>

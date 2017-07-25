@@ -55,6 +55,7 @@ public class CategoryController {
 		mv.addObject("isAdmin", "true");
 
 		if (categoryDAO.getCategoryById(id) != null) {
+			System.out.println(categoryDAO.getCategoryById(id));
 			mv.addObject("cMessage", "Category already exists with id : " + id);
 			return mv;
 		} else {

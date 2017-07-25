@@ -23,28 +23,28 @@
 					<div class="carousel-inner">
 						<div class="item active">
 							<a href="showProductByCategory/Philips">
-								<img src="<c:url value="/resources/images/iphone.jpg" />" alt="Image 1" style="width:70%;">
+								<img src="<c:url value="/resources/images/Apple-iPhone12.jpg" />" alt="Image 1" style="width:100%;">
 							</a>
 
 						</div>
 						<div class="item">
 							<a href="viewProduct/Nilkamal">
-								<img src="<c:url value="/resources/images/lenovo-phones.jpg" />" alt="Image 2" style="width:70%;">
+								<img src="<c:url value="/resources/images/lenovo-phones.jpg" />" alt="Image 2" style="width:100%;">
 							</a>
 						</div>
 						<div class="item">
 							<a href="showProductByCategory/Moto">
-								<img src="<c:url value="/resources/images/moto.jpg" />" alt="Image 3" style="width:70%;">
+								<img src="<c:url value="/resources/images/MotorolaMoto.jpg" />" alt="Image 3" style="width:100%;">
 							</a>
 						</div>
 						<div class="item">
 							<a href="showProductByCategory/Topwears">
-								<img src="<c:url value="/resources/images/redminote.jpg" />" alt="Image 4" style="width:70%;">
+								<img src="<c:url value="/resources/images/Redmiphone.jpg" />" alt="Image 4" style="width:100%;">
 							</a>
 						</div>
 						<div class="item">
 							<a href="showProductByCategory/Xbox">
-								<img src="<c:url value="/resources/images/Samsung.jpg" />" alt="Image 5" style="width:70%;">
+								<img src="<c:url value="/resources/images/Samsung123.jpg" />" alt="Image 5" style="width:100%;">
 							</a>
 						</div>
 

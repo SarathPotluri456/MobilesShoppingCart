@@ -35,7 +35,8 @@
 						<li><a href="RegistrationPage"><i class="fa fa-user-plus" aria-hidden="true"></i> SignUp </a></li>
 						<li><a href="Login"><i class="fa fa-sign-in" aria-hidden="true"></i> Login </a></li>
 					</c:if>
-
+                        <li><a href="ContactUs"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Contact Us </a></li>
+                        
 
 				</ul>
 
@@ -63,7 +64,7 @@
 							</ul></li>
 					</c:forEach>
 
-					<li><a href="ContactUs"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Contact Us </a></li>
+				
 
 				</ul>
 			</div>
