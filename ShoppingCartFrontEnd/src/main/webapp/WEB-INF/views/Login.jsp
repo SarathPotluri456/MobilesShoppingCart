@@ -5,6 +5,18 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+<link rel="stylesheet" href="lib/css/style.css">
+
+<style type="text/css">
+
+body
+{
+    background-image: url("resources/images/secure.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+</style>
 </head>
 <body>
 
