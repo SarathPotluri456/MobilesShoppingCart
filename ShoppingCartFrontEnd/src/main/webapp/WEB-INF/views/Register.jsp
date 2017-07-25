@@ -5,6 +5,18 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+<link rel="stylesheet" href="lib/css/style.css">
+
+<style type="text/css">
+
+body
+{
+    background-image: url("resources/images/Register-Button.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+</style>
 </head>
 <body>
 
@@ -37,7 +49,7 @@
     </div>
     <div class="form-group">        
       <div class="col-sm-offset-2 col-sm-10">
-        <button type="submit" class="btn btn-danger"><i class="fa fa-user-plus" aria-hidden="true"></i> SginUp</button>
+        <button type="submit" class="btn btn-danger"><i class="fa fa-user-plus" aria-hidden="true"></i>Click Here To Register</button>
       </div>
     </div>
   </form>
